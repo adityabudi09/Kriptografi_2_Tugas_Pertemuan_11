@@ -1,9 +1,9 @@
 # Kriptografi TugaS Pertemuan 11
 
-Nama              : Dwi Aditya Budi Listiawan
-Kelas             : TI.21.C2
-NIM               : 312110003
-Mata Kuliah       : Kriptografi
+      Nama              : Dwi Aditya Budi Listiawan
+      Kelas             : TI.21.C2
+      NIM               : 312110003
+      Mata Kuliah       : Kriptografi
 
 # Implementasi One Time Pad (OTP) di python
 
